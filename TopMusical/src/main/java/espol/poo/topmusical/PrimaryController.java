@@ -58,7 +58,7 @@ public class PrimaryController {
 
 
     private void mostrarHistorial(Cancion c) {
-        lblTitulo.setText(c.getTitulo());
+        lblTitulo.setText(c.getTitulo() + " - " + c.getCantante());
 
         try {
             Image img = new Image(new FileInputStream("img/" + c.getImagen()), 100, 100, true, true);
@@ -68,7 +68,7 @@ public class PrimaryController {
             ex.printStackTrace();
         }
 
-        lblInfo.setText("Posición anterior: " + c.getPosPrevia() + "\n Semanas en Top: " + c.getSemanas());
+        lblInfo.setText("Posición anterior: " + c.getPosPrevia() + "\n 🎵 Top 10 de las Mejores Canciones: " + c.getSemanas());
  
         System.out.println(c.getHistorialPos());
         //la actualización del historial se realiza en un hilo

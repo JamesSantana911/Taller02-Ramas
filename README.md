@@ -11,13 +11,13 @@
 
 Push exitoso:
 
-![Push exitoso del líder](imagenes/taller02.png)
+![Push exitoso del líder](TopMusical/imagenes/taller02.png)
 
 ### Integrante 1
 
 Cambio de orden invertido:
 
-![Cambio Integrante 1](imagenes/WhatsApp Image 2026-10-07 at 4.40.59 PM.jpeg)
+![Cambio Integrante 1](TopMusical/imagenes/WhatsApp-Image-2026-10-07-at-4.40.59-PM.jpeg)
 
 
 
@@ -25,7 +25,7 @@ Cambio de orden invertido:
 
 Cambio titulo y cantante
 
-![Cambio Integrante 2](capturas/imagen.png)
+![Cambio Integrante 2](TopMusical/capturas/imagen.png)
 
 
 

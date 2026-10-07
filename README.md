@@ -25,7 +25,7 @@ Cambio de orden invertido:
 
 Cambio titulo y cantante
 
-![Cambio Integrante 2](TopMusical/capturas/imagen.png)
+![Cambio Integrante 2](TopMusical/imagenes/imagen.png)
 
 
 
